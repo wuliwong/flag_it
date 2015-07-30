@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["patrickbradley777@gmail.com"]
 
   spec.summary       = %q{User flagging system on Activerecord Objects in a Rails application.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{Methods for making an Activerecord model 'flaggable' as well as making giving 'flagging' priveledges to a User.}
+  spec.homepage      = "https://github.com/wuliwong/flag_it"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
@@ -29,4 +29,8 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.9"
   spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rspec"
+  spec.add_development_dependency "guard"
+  spec.add_development_dependency "guard-rspec"
+  spec.add_development_dependency "coveralls"
 end
