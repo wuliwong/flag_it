@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wuliwong/flag_it.svg?branch=master)](https://travis-ci.org/wuliwong/flag_it)
+
 # FlagIt
 
 `flag_it` adds a User flagging system on Activerecord Objects in a Rails application.
