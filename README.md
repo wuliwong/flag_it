@@ -1,6 +1,6 @@
 # FlagIt
 
-`flag_it` is designed to easily add a flagging system to a `rails` 4 application.
+`flag_it` adds a User flagging system on Activerecord Objects in a Rails application.
 
 ## Installation
 

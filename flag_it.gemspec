@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Patrick Bradley"]
   spec.email         = ["patrickbradley777@gmail.com"]
 
-  spec.summary       = %q{An easy flagging system for instances of ActiveRecord models in Rails 4.}
+  spec.summary       = %q{User flagging system on Activerecord Objects in a Rails application.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
