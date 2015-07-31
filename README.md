@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/wuliwong/flag_it.svg?branch=master)](https://travis-ci.org/wuliwong/flag_it)
+[![Coverage Status](https://coveralls.io/repos/wuliwong/flag_it/badge.svg?branch=master&service=github)](https://coveralls.io/github/wuliwong/flag_it?branch=master)
 
 # FlagIt
 
