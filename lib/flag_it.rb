@@ -2,7 +2,13 @@ require "flag_it/version"
 require "flag_it/hello"
 
 module FlagIt
-  # Your code goes here...
+  def foo
+    "bar"
+  end
+
+  def flag_it
+    Include FlagIt
+  end
 end
 
 ActiveRecord::Base.extend FlagIt
