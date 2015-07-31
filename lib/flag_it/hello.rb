@@ -1,5 +1,5 @@
 class Hello
-  def hello
-    puts 'hello world'
+  def pow(a, b)
+    a ** b
   end
 end
