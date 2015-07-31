@@ -7,7 +7,7 @@ module FlagIt
   end
 
   def flag_it
-    Include FlagIt
+    include FlagIt
   end
 end
 
